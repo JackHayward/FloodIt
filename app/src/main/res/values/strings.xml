@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">s4928803 - FloodIt</string>
+    <string name="play">Play</string>
+    <string name="difficulty">DIFFICULTY</string>
+    <string name="how_to_play">HOW TO PLAY</string>
+    <string name="Easy">Easy</string>
+    <string name="medium">Medium</string>
+    <string name="hard">Hard</string>
+</resources>
